@@ -1,0 +1,7 @@
+Insturctions for using the program:
+
+Step1: Add your email username and password in config.py file so that you can receive the email.
+
+Step2: make sure that you allow less secure app ON. I have also attached a figure named less secure app access with this files. Please have a look.
+
+step3: Run the program and you will get your email send to your gmail account.
